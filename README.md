@@ -1,4 +1,4 @@
-# Cryptocurrency-Trends_Prediction
+# Cryptocurrency-Trends-Prediction
 
 Problem Statement: Bitcoin and Ethereum are two of the largest cryptocurrencies. These are digital money that runs independently of any central authority or government monitoring. Peer-to-peer software and cryptography are used instead. These were founded with the intention of allowing people to send money over the internet.
 
